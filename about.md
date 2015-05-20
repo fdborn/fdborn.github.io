@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-I'm Frederik, but you can call me Fred.
-Currently studying Software-System-Development in germany.
+Hi,
+
+I'm Frederik, a CS student from germany.
 
 #### Contact Me
 [Github](https://github.com/fdborn)
