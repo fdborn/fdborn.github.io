@@ -99,7 +99,7 @@ So what role does glue play in all of this?
 
 ## What is glue?
 
-Apart from the sticky stuff, its my attempt to solve both these problems (and most of their shortcomings).
+[Glue](https://github.com/fdborn/glue) is, apart from the sticky stuff, my attempt to solve both these problems (and most of their shortcomings).
 
 Its embarrassingly simple and has below 30 SLOC, but hear me out.
 
