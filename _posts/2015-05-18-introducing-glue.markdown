@@ -32,7 +32,7 @@ A global object.
 
 This is the point where the argument starts whether globals are cool or a sign of something inherently wrong with the codebase. But we choose not to use globals, since we want to make our code testable.
 
-Alright, we need an alternative. [This great article](http://www.jerf.org/iri/post/2929) suggest using an environment which we can pass to all dependent functions. Nice, that sounds a lot like dependency injection and we love buzzwords.
+Alright, we need an alternative. [This great article](http://www.jerf.org/iri/post/2929) suggests using an environment which we can pass to all dependent functions. Nice, that sounds a lot like dependency injection and we love buzzwords.
 
 ```go
 type Environment struct {
