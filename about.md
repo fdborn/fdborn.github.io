@@ -8,10 +8,7 @@ Hi,
 
 i'm frederik, a cs student from Germany.
 
-#### Contact Me
 [Github](https://github.com/fdborn)
-
-Mail: born(ät)born-solutions.de
 
 ---
 
