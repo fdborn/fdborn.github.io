@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi,
 
-i'm frederik, a cs student from Germany.
+I'm Frederik, a cs student from Germany.
 
 [Github](https://github.com/fdborn)
 
